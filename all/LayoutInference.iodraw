@@ -476,13 +476,14 @@
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-61" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;direction=south;fillColor=#746725;" vertex="1" parent="1">
           <mxGeometry x="220" y="1680" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WGYOWe2pE6e0eHYxqCSO-62" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WGYOWe2pE6e0eHYxqCSO-62" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WGYOWe2pE6e0eHYxqCSO-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="1750" as="sourcePoint" />
-            <mxPoint x="430" y="1700" as="targetPoint" />
+            <mxPoint x="206" y="1670" as="sourcePoint" />
+            <mxPoint x="256" y="1620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="1750" />
-              <mxPoint x="380" y="1700" />
+              <mxPoint x="220" y="1650" />
+              <mxPoint x="256" y="1670" />
+              <mxPoint x="206" y="1620" />
             </Array>
           </mxGeometry>
         </mxCell>
