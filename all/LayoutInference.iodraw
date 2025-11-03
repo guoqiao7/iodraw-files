@@ -392,9 +392,6 @@
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-28" value="repeat(8,1),true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="366" y="1260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WGYOWe2pE6e0eHYxqCSO-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1280" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;direction=south;" vertex="1" parent="1">
           <mxGeometry x="480" y="1280" width="20" height="40" as="geometry" />
         </mxCell>
@@ -439,6 +436,9 @@
         </mxCell>
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-47" value="base_layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="1478" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WGYOWe2pE6e0eHYxqCSO-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
