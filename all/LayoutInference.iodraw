@@ -474,7 +474,7 @@
           <mxGeometry x="201" y="1680" width="19" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-60" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="221" y="1680" width="299" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
