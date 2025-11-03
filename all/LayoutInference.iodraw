@@ -378,7 +378,7 @@
           <mxGeometry x="140" y="1598" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-22" value="j / 2 + 2 * （i / 8* 2 + j / 8)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="271" y="1560" width="160" height="30" as="geometry" />
+          <mxGeometry x="276" y="1560" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
