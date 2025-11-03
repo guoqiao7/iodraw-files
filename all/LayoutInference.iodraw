@@ -335,8 +335,11 @@
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;" vertex="1" parent="1">
           <mxGeometry x="120" y="1360" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="WGYOWe2pE6e0eHYxqCSO-9" value="forward_thread j/2+4*i" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1488" width="140" height="30" as="geometry" />
+        <mxCell id="WGYOWe2pE6e0eHYxqCSO-9" value="&amp;nbsp;j/2+4*i" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1488" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WGYOWe2pE6e0eHYxqCSO-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1478" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
