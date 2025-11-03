@@ -420,7 +420,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-40" value="policy = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1168" width="70" height="30" as="geometry" />
+          <mxGeometry x="321" y="1169" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WGYOWe2pE6e0eHYxqCSO-41" value="256/32 = 8&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1178" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
