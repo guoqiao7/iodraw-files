@@ -332,6 +332,9 @@
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-7" value="makeGemmFragment8*8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="1448" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WGYOWe2pE6e0eHYxqCSO-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
