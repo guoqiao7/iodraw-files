@@ -444,7 +444,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-48" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="561" y="1260" width="50" height="310" as="geometry" />
+          <mxGeometry x="480" y="1280" width="150" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
