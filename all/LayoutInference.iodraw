@@ -368,8 +368,8 @@
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;" vertex="1" parent="1">
           <mxGeometry x="321" y="1400" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="WGYOWe2pE6e0eHYxqCSO-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1518" width="50" height="30" as="geometry" />
+        <mxCell id="WGYOWe2pE6e0eHYxqCSO-19" value="j/2+4*(i % 4)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1518" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
