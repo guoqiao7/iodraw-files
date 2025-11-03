@@ -441,10 +441,10 @@
           <mxGeometry x="521" y="1240" width="19" height="320" as="geometry" />
         </mxCell>
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-50" value="warp_layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1478" width="90" height="30" as="geometry" />
+          <mxGeometry x="570" y="1478" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-51" value="j / 2+4*(i % 8) + 32*(i/16)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="1520" width="150" height="30" as="geometry" />
+          <mxGeometry x="551" y="1520" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
