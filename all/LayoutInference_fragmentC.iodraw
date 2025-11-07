@@ -607,25 +607,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-42" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;kFree&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;尝试根节点选择寄存器最少的方案&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="548" y="3110" width="156" height="60" as="geometry" />
+          <mxGeometry x="548" y="3130" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_00wFdRqEdVl22DPUNYT-44" target="_00wFdRqEdVl22DPUNYT-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Union-Find&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;根据共享buffer对op分组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;构建连通分量&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="339" y="3070" width="156" height="60" as="geometry" />
+          <mxGeometry x="339" y="3090" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-46" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;选择op作为起点&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;运行RunInferStep和FinishInferQueue&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;计算寄存器使用量&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="141.5" y="3060" width="156" height="80" as="geometry" />
+          <mxGeometry x="141.5" y="3080" width="156" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_00wFdRqEdVl22DPUNYT-51" target="_00wFdRqEdVl22DPUNYT-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-51" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;GetVectorizeSize分析访存模式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;调整向量化大小&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="339" y="3150" width="156" height="60" as="geometry" />
+          <mxGeometry x="339" y="3170" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;PlanLoopPartition&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;计算各线程处理的数据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;确定向量化维度&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;生成forward_thread&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="70" y="3150" width="189" height="80" as="geometry" />
+          <mxGeometry x="70" y="3170" width="189" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
