@@ -696,8 +696,11 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-76" value="收集reducer元数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="895" y="2465" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-77" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;在包含reducer的最外层T.Parallel上添加&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-77" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;在包含reducer的最外层T.Parallel上添加&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;attr::kReducerInfo注解&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1155" y="2500" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-79" value="收集reducer元数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="905" y="2475" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
