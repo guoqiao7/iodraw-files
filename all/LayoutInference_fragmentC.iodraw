@@ -559,7 +559,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;kStrict&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;检查完全复制buffer&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="526" y="2820" width="200" height="80" as="geometry" />
+          <mxGeometry x="548" y="2820" width="156" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;kStrict&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;检查完全复制buffer&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="276" y="2820" width="200" height="80" as="geometry" />
