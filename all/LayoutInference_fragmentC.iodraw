@@ -696,11 +696,17 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-76" value="收集reducer元数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="895" y="2465" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_00wFdRqEdVl22DPUNYT-77" target="_00wFdRqEdVl22DPUNYT-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-77" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;在包含reducer的最外层T.Parallel上添加&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;attr::kReducerInfo注解&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1155" y="2500" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-79" value="标注For循环" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1190" y="2465" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-80" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;在包含reducer的最外层T.Parallel上添加&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;attr::kReducerInfo注解&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="2640" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
