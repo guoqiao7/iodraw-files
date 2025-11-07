@@ -660,7 +660,7 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-64" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;布局应用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="725" y="3435" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-65" value="LayoutInferencer mutator" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-65" value="包含fragment的block需要将layout_map添加到annotations" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="291" y="3420" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
