@@ -666,7 +666,7 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-65" value="包含fragment的block需要将layout_map添加到annotations" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="332" y="3420" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-67" value="包含fragment的block需要将layout_map添加到annotations" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-67" value="检查是否分区&lt;div&gt;Parallel只操作local，跳过&lt;/div&gt;&lt;div&gt;调用PartitionLoop分区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="82" y="3420" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
