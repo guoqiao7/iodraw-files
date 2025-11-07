@@ -630,7 +630,7 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;PlanLoopPartition&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;计算各线程处理的数据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;确定向量化维度&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;生成forward_thread&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="3170" width="189" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ComputeBufferFragment&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ComputeBufferFragment&lt;/span&gt;&lt;div&gt;完成Fragment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="548" y="3270" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
