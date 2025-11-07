@@ -600,8 +600,14 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-42" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;kFree&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;尝试根节点选择寄存器最少的方案&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="548" y="3110" width="156" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_00wFdRqEdVl22DPUNYT-44" target="_00wFdRqEdVl22DPUNYT-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Union-Find&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;根据共享buffer对op分组&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="345" y="3110" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-46" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Union-Find&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;根据共享buffer对op分组&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="109" y="3110" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
