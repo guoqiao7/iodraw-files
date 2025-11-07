@@ -732,7 +732,7 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-88" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;NONE：分区布局，将buffer元素分布到不同线程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="2680" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-90" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;根据ReducerRep Type&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;计算Fragment布局&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-90" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;计算出的布局添加到&lt;br&gt;attr::kLayoutMap注解中&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1155" y="2780" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
