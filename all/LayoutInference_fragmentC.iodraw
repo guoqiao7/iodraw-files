@@ -643,7 +643,7 @@
           <mxGeometry x="291" y="3275" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-59" value="应用循环布局&lt;div&gt;创建Fragment&lt;/div&gt;&lt;div&gt;forward_vars_，forward_index_,&lt;/div&gt;&lt;div&gt;forward_thread,&lt;/div&gt;&lt;div&gt;replicate_iter_&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="3275" width="170" height="70" as="geometry" />
+          <mxGeometry x="20" y="3260" width="190" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
