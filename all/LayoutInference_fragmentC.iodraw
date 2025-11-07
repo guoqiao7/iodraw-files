@@ -492,6 +492,15 @@
         <mxCell id="WGYOWe2pE6e0eHYxqCSO-64" value="block_layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="1999" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;FragmentC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="39" y="1220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="2580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-3" value="ParallelOp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="36" y="2390" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
