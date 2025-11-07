@@ -688,7 +688,7 @@
           <mxGeometry x="850" y="2400" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-75" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;从Block的attr::kReducerInfo注解中提取reducer信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="865" y="2455" width="200" height="60" as="geometry" />
+          <mxGeometry x="875" y="2500" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
