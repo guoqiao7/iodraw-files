@@ -636,7 +636,7 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ComputeBufferFragment&lt;/span&gt;&lt;div&gt;完成Fragment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="541" y="3270" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-57" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ComputeBufferFragment&lt;/span&gt;&lt;div&gt;完成Fragment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-57" value="IsCommonAccessIndice&lt;div&gt;判断是否使用循环变量作为索引&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="291" y="3270" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
