@@ -724,7 +724,7 @@
           <mxGeometry x="1155" y="2640" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-82" value="计算Reducer布局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="2660" width="150" height="30" as="geometry" />
+          <mxGeometry x="1390" y="2655" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-83" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ALL：完全复制布局，每个线程有独立副本&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="2600" width="200" height="60" as="geometry" />
@@ -735,8 +735,8 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-90" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;计算出的布局添加到&lt;br&gt;attr::kLayoutMap注解中&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1155" y="2780" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-92" value="计算Reducer布局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="2800" width="150" height="30" as="geometry" />
+        <mxCell id="_00wFdRqEdVl22DPUNYT-92" value="更新Block注解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="2790" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
