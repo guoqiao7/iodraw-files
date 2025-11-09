@@ -747,6 +747,9 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-96" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="5080" width="269" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-97" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1841" width="320" height="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
