@@ -1074,8 +1074,8 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-212" value="replicate(n_warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1280" y="5088" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-213" value="block_m/warp_m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="5030" width="110" height="30" as="geometry" />
+        <mxCell id="_00wFdRqEdVl22DPUNYT-213" value="block_n/warp_n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="5025" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
