@@ -1489,7 +1489,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-345" value="其他warp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="5520" width="70" height="30" as="geometry" />
+          <mxGeometry x="1241" y="5524" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-346" value="其他warp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1251" y="5534" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
