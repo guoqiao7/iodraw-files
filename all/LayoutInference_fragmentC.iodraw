@@ -783,8 +783,11 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-116" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;FragmentC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="4693" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-118" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="955" y="3190" width="120" height="60" as="geometry" />
+        <mxCell id="_00wFdRqEdVl22DPUNYT-119" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5080" as="sourcePoint" />
+            <mxPoint x="570" y="5030" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
