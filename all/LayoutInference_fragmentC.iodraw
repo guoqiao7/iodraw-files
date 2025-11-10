@@ -1067,12 +1067,15 @@
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-211" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1290" y="5125.53" as="sourcePoint" />
+            <mxPoint x="1290" y="5128" as="sourcePoint" />
             <mxPoint x="1390" y="5128" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-212" value="replicate(n_warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1280" y="5088" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-213" value="block_m/warp_m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="5030" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
