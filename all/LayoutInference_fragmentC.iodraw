@@ -822,10 +822,10 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-139" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="5368" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-140" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#0000CC;dashed=1;dashPattern=8 8;glass=0;shadow=0;gradientColor=none;opacity=30;fillStyle=cross-hatch;" vertex="1" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-140" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#0000CC;dashed=1;dashPattern=8 8;glass=0;shadow=0;gradientColor=none;opacity=30;fillStyle=dots;" vertex="1" parent="1">
           <mxGeometry x="360" y="5400" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-141" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#0000CC;dashed=1;dashPattern=8 8;glass=0;shadow=0;gradientColor=none;opacity=30;fillStyle=zigzag-line;" vertex="1" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-141" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#0000CC;dashed=1;dashPattern=8 8;glass=0;shadow=0;gradientColor=none;opacity=30;fillStyle=dashed;" vertex="1" parent="1">
           <mxGeometry x="400" y="5400" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
