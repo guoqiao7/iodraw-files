@@ -912,11 +912,8 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-166" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;" vertex="1" parent="1">
           <mxGeometry x="1200" y="4840" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-167" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1164" y="4790" as="sourcePoint" />
-            <mxPoint x="1159" y="4890" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-168" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="4920" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
