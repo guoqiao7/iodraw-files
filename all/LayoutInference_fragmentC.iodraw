@@ -1335,6 +1335,45 @@
             <mxPoint x="1039.6599999999999" y="5520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-305" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1010" y="5448" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-306" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=east;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-305">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-307" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;direction=east;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-305">
+          <mxGeometry width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-308" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=east;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-305">
+          <mxGeometry y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-309" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;direction=east;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-305">
+          <mxGeometry y="40" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-310" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=east;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-305">
+          <mxGeometry x="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-311" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;direction=east;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-305">
+          <mxGeometry x="40" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-312" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;aspect=fixed;direction=east;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-305">
+          <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-313" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;direction=east;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-305">
+          <mxGeometry x="40" y="40" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-314" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="_00wFdRqEdVl22DPUNYT-305">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="19.839999999999918" y="15" as="sourcePoint" />
+            <mxPoint x="19.839999999999918" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-315" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="_00wFdRqEdVl22DPUNYT-305">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59.83999999999992" y="15" as="sourcePoint" />
+            <mxPoint x="59.83999999999992" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
