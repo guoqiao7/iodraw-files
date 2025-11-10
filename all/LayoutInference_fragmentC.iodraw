@@ -783,10 +783,10 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-116" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;FragmentC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="4693" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-119" value="" style="endArrow=none;html=1;rounded=0;entryX=0.201;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.202;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_00wFdRqEdVl22DPUNYT-99" target="_00wFdRqEdVl22DPUNYT-99">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-119" value="" style="endArrow=none;html=1;rounded=0;exitX=0.202;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_00wFdRqEdVl22DPUNYT-99">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="114" y="5235" as="sourcePoint" />
-            <mxPoint x="164" y="5185" as="targetPoint" />
+            <mxPoint x="120" y="5280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
