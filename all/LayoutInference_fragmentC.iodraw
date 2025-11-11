@@ -1494,8 +1494,8 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-346" value="其他warp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1065" y="5700" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-347" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="985" y="4728" width="50" height="30" as="geometry" />
+        <mxCell id="_00wFdRqEdVl22DPUNYT-347" value="!transposed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="965" y="4728" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
