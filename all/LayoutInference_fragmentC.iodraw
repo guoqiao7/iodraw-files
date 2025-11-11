@@ -1752,6 +1752,9 @@
             <mxPoint x="1514.6599999999999" y="6578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-434" value="Repeat{block_k/16, warp_n/8},false,true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="6508" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
