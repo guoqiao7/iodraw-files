@@ -1674,7 +1674,7 @@
             <mxPoint x="1444.11" y="6240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-410" value="" style="group;" vertex="1" connectable="0" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-410" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1560" y="6070" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-411" value="" style="group" vertex="1" connectable="0" parent="_00wFdRqEdVl22DPUNYT-410">
@@ -1695,7 +1695,7 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-416" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;direction=south;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-414">
           <mxGeometry width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-417" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;" vertex="1" connectable="0" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-417" value="" style="group;opacity=40;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1560" y="6290" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-418" value="" style="group" vertex="1" connectable="0" parent="_00wFdRqEdVl22DPUNYT-417">
