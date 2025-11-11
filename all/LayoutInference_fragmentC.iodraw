@@ -1285,7 +1285,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-289" value="repeat{warp_m/16,block_k/16},false,false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1390.0000000000002" y="5350" width="240" height="30" as="geometry" />
+          <mxGeometry x="1370.0000000000002" y="5320" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-290" value="此处只看一个warp内部的拓展&lt;div&gt;repeat是在warp内部重复数据&lt;/div&gt;&lt;div&gt;而不是整体数据的重复&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1271" y="5390" width="180" height="60" as="geometry" />
