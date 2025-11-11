@@ -1521,8 +1521,8 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-363" value="makeGemmFragment8*8Transposed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="820" y="6050" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-364" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;" vertex="1" parent="1">
-          <mxGeometry x="880" y="5960" width="20" height="10" as="geometry" />
+        <mxCell id="_00wFdRqEdVl22DPUNYT-364" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="885" y="5955" width="10" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
