@@ -1695,7 +1695,7 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-416" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;direction=south;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-414">
           <mxGeometry width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-417" value="" style="group;opacity=40;" vertex="1" connectable="0" parent="1">
+        <mxCell id="_00wFdRqEdVl22DPUNYT-417" value="" style="group;opacity=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1560" y="6290" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-418" value="" style="group" vertex="1" connectable="0" parent="_00wFdRqEdVl22DPUNYT-417">
@@ -1742,12 +1742,6 @@
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-428" value="warp_layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1470" y="6458" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-429" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1469.31" y="6480" as="sourcePoint" />
-            <mxPoint x="1469.65" y="6550" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
