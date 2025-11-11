@@ -1569,6 +1569,27 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-377" value="Replicate(block_m/warp_m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="6188" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-378" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="890" y="6170" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-379" value="" style="group" vertex="1" connectable="0" parent="_00wFdRqEdVl22DPUNYT-378">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-380" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-379">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-381" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;direction=south;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-379">
+          <mxGeometry width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-382" value="" style="group" vertex="1" connectable="0" parent="_00wFdRqEdVl22DPUNYT-378">
+          <mxGeometry y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-383" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-382">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-384" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;direction=south;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-382">
+          <mxGeometry width="10" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
