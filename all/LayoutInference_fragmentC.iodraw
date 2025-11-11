@@ -1033,7 +1033,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-216" value="" style="group;fillColor=#D5E8D4;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1400" y="5000" width="80" height="80" as="geometry" />
+          <mxGeometry x="1400" y="5000" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-217" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=east;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-216">
           <mxGeometry width="40" height="40" as="geometry" />
@@ -1070,6 +1070,9 @@
             <mxPoint x="59.83999999999992" y="15" as="sourcePoint" />
             <mxPoint x="59.83999999999992" y="65" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-353" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-216">
+          <mxGeometry x="-30" y="-40" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-227" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1400" y="5080" width="80" height="80" as="geometry" />
@@ -1499,9 +1502,6 @@
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-351" value="repeat方向与PTX要求一致" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="900" y="5268" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-353" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="5100" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
