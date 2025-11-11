@@ -1500,8 +1500,8 @@
         <mxCell id="_00wFdRqEdVl22DPUNYT-348" value="架构无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1050" y="4728" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_00wFdRqEdVl22DPUNYT-349" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="865" y="5238" width="50" height="30" as="geometry" />
+        <mxCell id="_00wFdRqEdVl22DPUNYT-349" value="每个vector包含4个.f16寄存器&lt;div&gt;每个寄存器包含两个.f16/.bf16元素&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="5233" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
