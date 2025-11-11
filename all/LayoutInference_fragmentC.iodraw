@@ -1507,7 +1507,7 @@
           <mxGeometry x="840" y="5293" width="314.11" height="264" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-351" value="repeat方向与PTX要求一致" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="5258" width="160" height="30" as="geometry" />
+          <mxGeometry x="900" y="5268" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
