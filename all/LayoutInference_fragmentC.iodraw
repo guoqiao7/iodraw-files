@@ -1488,6 +1488,9 @@
             <mxPoint x="1370.1599999999999" y="5697" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-352" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_00wFdRqEdVl22DPUNYT-345" target="_00wFdRqEdVl22DPUNYT-342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-345" value="其他warp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1511" y="5561" width="70" height="30" as="geometry" />
         </mxCell>
