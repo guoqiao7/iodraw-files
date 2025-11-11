@@ -1570,7 +1570,7 @@
           <mxGeometry x="956" y="6193" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-378" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1120" y="6080" width="80" height="160" as="geometry" />
+          <mxGeometry x="1120" y="6070" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-379" value="" style="group" vertex="1" connectable="0" parent="_00wFdRqEdVl22DPUNYT-378">
           <mxGeometry width="80" height="80" as="geometry" />
@@ -1591,7 +1591,7 @@
           <mxGeometry width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-385" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1120" y="6310" width="80" height="160" as="geometry" />
+          <mxGeometry x="1120" y="6300" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-386" value="" style="group" vertex="1" connectable="0" parent="_00wFdRqEdVl22DPUNYT-385">
           <mxGeometry width="80" height="80" as="geometry" />
@@ -1610,6 +1610,12 @@
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-391" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#975959;direction=south;" vertex="1" parent="_00wFdRqEdVl22DPUNYT-389">
           <mxGeometry width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_00wFdRqEdVl22DPUNYT-392" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1319.9899999999998" y="5597" as="sourcePoint" />
+            <mxPoint x="1319.6599999999999" y="5567" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
