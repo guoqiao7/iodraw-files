@@ -1504,16 +1504,16 @@
           <mxGeometry x="1380" y="4980" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-358" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;FragmentA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="4703" width="120" height="40" as="geometry" />
+          <mxGeometry x="840" y="5860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-359" value="element_size == 16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="4738" width="130" height="30" as="geometry" />
+          <mxGeometry x="840" y="5895" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-360" value="!transposed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="975" y="4738" width="90" height="30" as="geometry" />
+          <mxGeometry x="955" y="5895" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_00wFdRqEdVl22DPUNYT-361" value="架构无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="4738" width="70" height="30" as="geometry" />
+          <mxGeometry x="1040" y="5895" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
