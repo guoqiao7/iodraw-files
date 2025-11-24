@@ -109,6 +109,12 @@
             <mxGeometry x="25" y="990" width="330" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-32" value="DEPBAR;   // Dependency Barrier (依赖屏障)&#xa;BAR.SYNC; // 常规栅栏" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1060" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="948" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
