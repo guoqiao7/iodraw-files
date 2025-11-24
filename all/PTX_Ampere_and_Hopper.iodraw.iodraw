@@ -38,6 +38,9 @@
             <mxGeometry x="470" y="190" width="370" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-11" value="TMA.LOAD.2D.GEN [R0]; // 启动 TMA 2D 加载引擎&#xa;// 此时没有任何 LDG 指令，SM 核心完全解放" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="310" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
