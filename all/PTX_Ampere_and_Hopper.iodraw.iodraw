@@ -27,6 +27,12 @@
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-7" value="LDGSTS.E.BYPASS.L1 [R1], [R2]; // Load Global Store Shared&#xa;// 直接从 Global 读，写入 Shared，不经过寄存器文件" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="370" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-8" value="cp.async" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-9" value="thread显式发射指令，不需要等待，&lt;div&gt;可以继续执行其他指令&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="145" width="210" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
