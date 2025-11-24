@@ -17,7 +17,7 @@
           <mxGeometry x="45" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-5" value="thread显式发射指令，不需要等待，&lt;div&gt;可以继续执行其他指令&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="135" width="210" height="40" as="geometry" />
+          <mxGeometry x="130" y="120" width="210" height="40" as="geometry" />
         </mxCell>
         <UserObject label="cp.async.ca.shared.global [%smem_ptr], [%global_ptr], 16; // 搬运 16字节&#xa;cp.async.commit_group; // 提交这一批次拷贝请求&#xa;cp.async.wait_group N; // 等待倒数第N批次完成（实现多级流水线）" id="ZlBqLV6LS6-vf0MejHJ3-6">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
           <mxGeometry x="490" y="140" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-9" value="CPU/SM发送一个描述符&lt;div&gt;TMA硬件引擎自动搬运整个tile&lt;/div&gt;&lt;div&gt;通常Warp0的lane0启动TMA复制事务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="115" width="220" height="60" as="geometry" />
+          <mxGeometry x="560" y="110" width="220" height="60" as="geometry" />
         </mxCell>
         <UserObject label="cp.async.bulk.shared.global [%smem_mbar], [%tma_desc], ...; &#xa;// 使用 TMA 描述符批量拷贝&#xa;mbarrier.arrive.expect_tx [%smem_mbar], bytes; &#xa;// 告诉同步屏障：有一笔 TMA 交易要来了，准备计数" id="ZlBqLV6LS6-vf0MejHJ3-10">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
