@@ -58,6 +58,9 @@
             <mxGeometry x="25" y="510" width="410" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-17" value="LDS.128.U.M88 R0, [R4]; // Load Shared 128-bit" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="290" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
