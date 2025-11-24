@@ -78,8 +78,8 @@
             <mxGeometry x="30" y="740" width="310" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-23" value="输入为寄存器中的A，B，输出到寄存器中的C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="690" width="260" height="30" as="geometry" />
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-23" value="输入为寄存器中的A，B，&lt;div&gt;输出到寄存器中的C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="685" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-24" value="HMMA.16816.F16 R0, R4, R8, R0; &#xa;// R0(C) = R4(A) * R8(B) + R0(C)&#xa;// 输入操作数必须在寄存器 R4, R8 中" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30" y="800" width="230" height="70" as="geometry" />
@@ -90,6 +90,11 @@
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-26" value="输入为SMem中的描述符，&lt;div&gt;输出到寄存器中的C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="685" width="170" height="40" as="geometry" />
         </mxCell>
+        <UserObject label="wgmma.mma_async.sync.aligned.m64n128k16.f16.f16.f16 &#xa;    {c0...cN}, %desc_a, %desc_b, p;&#xa;// 输入是 %desc_a (指向 SMEM), 输出是寄存器 {c...}" link="wgmma.mma_async.sync.aligned.m64n128k16.f16.f16.f16 &#xa;    {c0...cN}, %desc_a, %desc_b, p;&#xa;// 输入是 %desc_a (指向 SMEM), 输出是寄存器 {c...}" id="ZlBqLV6LS6-vf0MejHJ3-27">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="590" y="800" width="350" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
