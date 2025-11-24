@@ -87,8 +87,8 @@
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-25" value="Warpgroup级异步计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="690" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-26" value="输入为SMem中的描述符，输出到寄存器中的C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="690" width="270" height="30" as="geometry" />
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-26" value="输入为SMem中的描述符，&lt;div&gt;输出到寄存器中的C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="685" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
