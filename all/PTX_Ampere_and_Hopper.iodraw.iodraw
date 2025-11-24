@@ -104,6 +104,11 @@
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-30" value="需要显示管理异步拷贝的完成状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="940" width="200" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="cp.async.wait_group 1; // 等待上一轮拷贝完成&#xa;bar.sync 0;            // 确保 Warp 内所有线程都拿到了数据" link="cp.async.wait_group 1; // 等待上一轮拷贝完成&#xa;bar.sync 0;            // 确保 Warp 内所有线程都拿到了数据" id="ZlBqLV6LS6-vf0MejHJ3-31">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="25" y="990" width="330" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
