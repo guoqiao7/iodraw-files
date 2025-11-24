@@ -71,8 +71,13 @@
           <mxGeometry x="110" y="10" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-21" value="m16n8k16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="690" width="80" height="30" as="geometry" />
+          <mxGeometry x="20" y="690" width="80" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="mma.sync.aligned.m16n8k16.row.col.f16.f16.f16.f16 &#xa;    {c0, c1}, {a0, a1}, {b0}, {c0, c1};" link="mma.sync.aligned.m16n8k16.row.col.f16.f16.f16.f16 &#xa;    {c0, c1}, {a0, a1}, {b0}, {c0, c1};" id="ZlBqLV6LS6-vf0MejHJ3-22">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="20" y="730" width="310" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
