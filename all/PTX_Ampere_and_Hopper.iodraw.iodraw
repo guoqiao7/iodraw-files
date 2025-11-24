@@ -106,22 +106,22 @@
         </mxCell>
         <UserObject label="cp.async.wait_group 1; // 等待上一轮拷贝完成&#xa;bar.sync 0;            // 确保 Warp 内所有线程都拿到了数据" link="cp.async.wait_group 1; // 等待上一轮拷贝完成&#xa;bar.sync 0;            // 确保 Warp 内所有线程都拿到了数据" id="ZlBqLV6LS6-vf0MejHJ3-31">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="25" y="990" width="330" height="50" as="geometry" />
+            <mxGeometry x="25" y="1000" width="330" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-32" value="DEPBAR;   // Dependency Barrier (依赖屏障)&#xa;BAR.SYNC; // 常规栅栏" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1060" width="270" height="50" as="geometry" />
+          <mxGeometry x="30" y="1090" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-33" value="使用mbarrier实现更细粒度的“到达-等待”模型，配合TMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="940" width="320" height="30" as="geometry" />
         </mxCell>
         <UserObject label="mbarrier.try_wait.parity.shared.b64 [%mbar], phase;&#xa;// 检查 TMA 是否把数据搬完了&#xa;wgmma.fence.sync.aligned; &#xa;// 确保之前的 WGMMA 指令已经发射，然后再发射新的&#xa;wgmma.wait_group.sync.aligned 0;&#xa;// 等待 WGMMA 计算完成（通常只在最后输出结果时需要，循环中不需要等）" link="mbarrier.try_wait.parity.shared.b64 [%mbar], phase;&#xa;// 检查 TMA 是否把数据搬完了&#xa;wgmma.fence.sync.aligned; &#xa;// 确保之前的 WGMMA 指令已经发射，然后再发射新的&#xa;wgmma.wait_group.sync.aligned 0;&#xa;// 等待 WGMMA 计算完成（通常只在最后输出结果时需要，循环中不需要等）" id="ZlBqLV6LS6-vf0MejHJ3-34">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="440" y="970" width="450" height="110" as="geometry" />
+            <mxGeometry x="460" y="970" width="450" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-35" value="MBAR.WAIT; // 等待 mbarrier 信号&#xa;YIELD;     // 暂时挂起线程，让出资源给 TMA 引擎运行" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1110" width="320" height="50" as="geometry" />
+          <mxGeometry x="470" y="1090" width="320" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
