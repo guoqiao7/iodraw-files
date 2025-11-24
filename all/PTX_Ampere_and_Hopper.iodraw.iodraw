@@ -30,8 +30,8 @@
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-8" value="TMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="140" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-9" value="CPU/SM发送一个描述符&lt;div&gt;TMA硬件引擎自动搬运整个tile&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="135" width="180" height="40" as="geometry" />
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-9" value="CPU/SM发送一个描述符&lt;div&gt;TMA硬件引擎自动搬运整个tile&lt;/div&gt;&lt;div&gt;通常Warp0的lane0启动TMA复制事务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="125" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
