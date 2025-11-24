@@ -55,7 +55,7 @@
         </mxCell>
         <UserObject label="ldmatrix.sync.aligned.m8n8.x4.shared.b16 {r0, r1, r2, r3}, [%smem_ptr];&#xa;// 将 SMEM 数据加载到 r0-r3 寄存器" link="ldmatrix.sync.aligned.m8n8.x4.shared.b16 {r0, r1, r2, r3}, [%smem_ptr];&#xa;// 将 SMEM 数据加载到 r0-r3 寄存器" id="ZlBqLV6LS6-vf0MejHJ3-16">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="330" y="560" width="410" height="50" as="geometry" />
+            <mxGeometry x="25" y="510" width="410" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
