@@ -120,6 +120,9 @@
             <mxGeometry x="440" y="970" width="450" height="110" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-35" value="MBAR.WAIT; // 等待 mbarrier 信号&#xa;YIELD;     // 暂时挂起线程，让出资源给 TMA 引擎运行" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1110" width="320" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
