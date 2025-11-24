@@ -21,11 +21,11 @@
         </mxCell>
         <UserObject label="cp.async.ca.shared.global [%smem_ptr], [%global_ptr], 16; // 搬运 16字节&#xa;cp.async.commit_group; // 提交这一批次拷贝请求&#xa;cp.async.wait_group N; // 等待倒数第N批次完成（实现多级流水线）" id="ZlBqLV6LS6-vf0MejHJ3-6">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="20" y="190" width="420" height="70" as="geometry" />
+            <mxGeometry x="20" y="195" width="420" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-7" value="LDGSTS.E.BYPASS.L1 [R1], [R2]; // Load Global Store Shared&#xa;// 直接从 Global 读，写入 Shared，不经过寄存器文件" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="50" y="280" width="370" height="50" as="geometry" />
+          <mxGeometry x="50" y="290" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-8" value="TMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="140" width="50" height="30" as="geometry" />
@@ -33,7 +33,7 @@
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-9" value="CPU/SM发送一个描述符&lt;div&gt;TMA硬件引擎自动搬运整个tile&lt;/div&gt;&lt;div&gt;通常Warp0的lane0启动TMA复制事务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="125" width="220" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="cp.async.bulk.shared.global [%smem_mbar], [%tma_desc], ...; &#xa;// 使用 TMA 描述符批量拷贝&#xa;mbarrier.arrive.expect_tx [%smem_mbar], bytes; &#xa;// 告诉同步屏障：有一笔 TMA 交易要来了，准备计数" link="cp.async.bulk.shared.global [%smem_mbar], [%tma_desc], ...; &#xa;// 使用 TMA 描述符批量拷贝&#xa;mbarrier.arrive.expect_tx [%smem_mbar], bytes; &#xa;// 告诉同步屏障：有一笔 TMA 交易要来了，准备计数" id="ZlBqLV6LS6-vf0MejHJ3-10">
+        <UserObject label="cp.async.bulk.shared.global [%smem_mbar], [%tma_desc], ...; &#xa;// 使用 TMA 描述符批量拷贝&#xa;mbarrier.arrive.expect_tx [%smem_mbar], bytes; &#xa;// 告诉同步屏障：有一笔 TMA 交易要来了，准备计数" id="ZlBqLV6LS6-vf0MejHJ3-10">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="470" y="185" width="370" height="80" as="geometry" />
           </mxCell>
