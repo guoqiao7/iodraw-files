@@ -92,9 +92,12 @@
         </mxCell>
         <UserObject label="wgmma.mma_async.sync.aligned.m64n128k16.f16.f16.f16 &#xa;    {c0...cN}, %desc_a, %desc_b, p;&#xa;// 输入是 %desc_a (指向 SMEM), 输出是寄存器 {c...}" link="wgmma.mma_async.sync.aligned.m64n128k16.f16.f16.f16 &#xa;    {c0...cN}, %desc_a, %desc_b, p;&#xa;// 输入是 %desc_a (指向 SMEM), 输出是寄存器 {c...}" id="ZlBqLV6LS6-vf0MejHJ3-27">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="590" y="800" width="350" height="70" as="geometry" />
+            <mxGeometry x="455" y="730" width="350" height="70" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-28" value="HGMMA.M64.N128.K16 R0, R100, R101;&#xa;// R0 是累加器 C 的寄存器&#xa;// R100, R101 是 Shared Memory 的描述符索引，不是数据本身！" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="860" width="380" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
