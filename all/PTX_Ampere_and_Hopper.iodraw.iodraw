@@ -51,8 +51,13 @@
           <mxGeometry x="20" y="460" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-15" value="将Shared中的数据以特定布局加载到寄存器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="448" width="250" height="30" as="geometry" />
+          <mxGeometry x="110" y="460" width="250" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="ldmatrix.sync.aligned.m8n8.x4.shared.b16 {r0, r1, r2, r3}, [%smem_ptr];&#xa;// 将 SMEM 数据加载到 r0-r3 寄存器" link="ldmatrix.sync.aligned.m8n8.x4.shared.b16 {r0, r1, r2, r3}, [%smem_ptr];&#xa;// 将 SMEM 数据加载到 r0-r3 寄存器" id="ZlBqLV6LS6-vf0MejHJ3-16">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="330" y="560" width="410" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
