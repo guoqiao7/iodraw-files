@@ -31,11 +31,11 @@
           <mxGeometry x="490" y="140" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-9" value="CPU/SM发送一个描述符&lt;div&gt;TMA硬件引擎自动搬运整个tile&lt;/div&gt;&lt;div&gt;通常Warp0的lane0启动TMA复制事务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="125" width="220" height="60" as="geometry" />
+          <mxGeometry x="560" y="115" width="220" height="60" as="geometry" />
         </mxCell>
         <UserObject label="cp.async.bulk.shared.global [%smem_mbar], [%tma_desc], ...; &#xa;// 使用 TMA 描述符批量拷贝&#xa;mbarrier.arrive.expect_tx [%smem_mbar], bytes; &#xa;// 告诉同步屏障：有一笔 TMA 交易要来了，准备计数" id="ZlBqLV6LS6-vf0MejHJ3-10">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="470" y="185" width="370" height="80" as="geometry" />
+            <mxGeometry x="470" y="190" width="370" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
