@@ -14,11 +14,16 @@
           <mxGeometry x="9" y="80" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-4" value="cp.async" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="140" width="70" height="30" as="geometry" />
+          <mxGeometry x="45" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlBqLV6LS6-vf0MejHJ3-5" value="thread显式发射指令，不需要等待，&lt;div&gt;可以继续执行其他指令&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="135" width="210" height="40" as="geometry" />
+          <mxGeometry x="130" y="135" width="210" height="40" as="geometry" />
         </mxCell>
+        <UserObject label="cp.async.ca.shared.global [%smem_ptr], [%global_ptr], 16; // 搬运 16字节&#xa;cp.async.commit_group; // 提交这一批次拷贝请求&#xa;cp.async.wait_group N; // 等待倒数第N批次完成（实现多级流水线）" link="cp.async.ca.shared.global [%smem_ptr], [%global_ptr], 16; // 搬运 16字节&#xa;cp.async.commit_group; // 提交这一批次拷贝请求&#xa;cp.async.wait_group N; // 等待倒数第N批次完成（实现多级流水线）" id="ZlBqLV6LS6-vf0MejHJ3-6">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="90" y="230" width="420" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
