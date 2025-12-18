@@ -2493,8 +2493,14 @@
         <mxCell id="_p4e6M0hBBSk_FOS5iLE-332" value="接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="252" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_p4e6M0hBBSk_FOS5iLE-333" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-334" value="buffer1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="176.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-335" value="buffer2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="252" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-336" value="buffer1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="196.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
