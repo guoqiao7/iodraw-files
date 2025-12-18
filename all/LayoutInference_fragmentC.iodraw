@@ -2562,8 +2562,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p4e6M0hBBSk_FOS5iLE-353" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2325" y="318" width="50" height="30" as="geometry" />
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-353" value="IR Lowering 为Thread级IR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="415" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
