@@ -2490,6 +2490,9 @@
         <mxCell id="_p4e6M0hBBSk_FOS5iLE-331" value="block Op" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1860" y="252" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-341" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_p4e6M0hBBSk_FOS5iLE-332" target="_p4e6M0hBBSk_FOS5iLE-340">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_p4e6M0hBBSk_FOS5iLE-332" value="接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="252" width="40" height="60" as="geometry" />
         </mxCell>
@@ -2519,6 +2522,9 @@
             <mxPoint x="1815" y="300" as="sourcePoint" />
             <mxPoint x="1865" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-340" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="242" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
