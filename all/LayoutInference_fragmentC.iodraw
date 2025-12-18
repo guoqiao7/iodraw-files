@@ -2487,7 +2487,7 @@
         <mxCell id="_p4e6M0hBBSk_FOS5iLE-330" value="Atom Layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1770" y="5246" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_p4e6M0hBBSk_FOS5iLE-331" value="block IR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-331" value="block Op" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1796" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
