@@ -2549,11 +2549,8 @@
             <mxPoint x="2080" y="269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p4e6M0hBBSk_FOS5iLE-350" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2290" y="450" as="sourcePoint" />
-            <mxPoint x="2340" y="400" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-351" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="487" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
