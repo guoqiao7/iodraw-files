@@ -2533,13 +2533,16 @@
           <mxGeometry x="2210" y="252" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_p4e6M0hBBSk_FOS5iLE-344" value="Thread信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="2020" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_p4e6M0hBBSk_FOS5iLE-346" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1940" y="400" as="sourcePoint" />
-            <mxPoint x="1990" y="350" as="targetPoint" />
+            <mxPoint x="2060" y="210" as="sourcePoint" />
+            <mxPoint x="2060" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-347" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
