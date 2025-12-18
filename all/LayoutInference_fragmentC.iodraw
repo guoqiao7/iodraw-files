@@ -2502,10 +2502,16 @@
         <mxCell id="_p4e6M0hBBSk_FOS5iLE-336" value="buffer3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="332" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_p4e6M0hBBSk_FOS5iLE-337" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-337" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_p4e6M0hBBSk_FOS5iLE-336">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1810" y="362" as="sourcePoint" />
             <mxPoint x="1860" y="312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_p4e6M0hBBSk_FOS5iLE-338" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_p4e6M0hBBSk_FOS5iLE-334">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1825" y="210" as="sourcePoint" />
+            <mxPoint x="1885" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
