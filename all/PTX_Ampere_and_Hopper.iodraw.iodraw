@@ -1,126 +1,126 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Kv2jG-roNqMXMLnoqwta">
-    <mxGraphModel dx="861" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;以矩阵乘为例&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;以矩阵乘为例&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5" y="10" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据流：Global Memory(HBM) =&amp;gt; Shared Memory(SMEM) =&amp;gt; Registers(RF) =&amp;gt; Tensor Core&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据流：Global Memory(HBM) =&amp;gt; Shared Memory(SMEM) =&amp;gt; Registers(RF) =&amp;gt; Tensor Core&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="9" y="40" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.Global -&amp;gt; Shread&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.Global -&amp;gt; Shread&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="9" y="80" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-4" value="cp.async" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-4" value="cp.async" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="45" y="137" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-5" value="thread显式发射指令，不需要等待，&lt;div&gt;可以继续执行其他指令&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-5" value="thread显式发射指令，不需要等待，&lt;div&gt;可以继续执行其他指令&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="125" width="210" height="40" as="geometry" />
         </mxCell>
         <UserObject label="cp.async.ca.shared.global [%smem_ptr], [%global_ptr], 16; // 搬运 16字节&#xa;cp.async.commit_group; // 提交这一批次拷贝请求&#xa;cp.async.wait_group N; // 等待倒数第N批次完成（实现多级流水线）" id="ZlBqLV6LS6-vf0MejHJ3-6">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="20" y="195" width="420" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-7" value="LDGSTS.E.BYPASS.L1 [R1], [R2]; // Load Global Store Shared&#xa;// 直接从 Global 读，写入 Shared，不经过寄存器文件" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-7" value="LDGSTS.E.BYPASS.L1 [R1], [R2]; // Load Global Store Shared&#xa;// 直接从 Global 读，写入 Shared，不经过寄存器文件" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="50" y="290" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-8" value="TMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-8" value="TMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="140" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-9" value="CPU/SM发送一个描述符&lt;div&gt;TMA硬件引擎自动搬运整个tile&lt;/div&gt;&lt;div&gt;通常Warp0的lane0启动TMA复制事务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-9" value="CPU/SM发送一个描述符&lt;div&gt;TMA硬件引擎自动搬运整个tile&lt;/div&gt;&lt;div&gt;通常Warp0的lane0启动TMA复制事务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="110" width="220" height="60" as="geometry" />
         </mxCell>
         <UserObject label="cp.async.bulk.shared.global [%smem_mbar], [%tma_desc], ...; &#xa;// 使用 TMA 描述符批量拷贝&#xa;mbarrier.arrive.expect_tx [%smem_mbar], bytes; &#xa;// 告诉同步屏障：有一笔 TMA 交易要来了，准备计数" id="ZlBqLV6LS6-vf0MejHJ3-10">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="470" y="190" width="370" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-11" value="TMA.LOAD.2D.GEN [R0]; // 启动 TMA 2D 加载引擎&#xa;// 此时没有任何 LDG 指令，SM 核心完全解放" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-11" value="TMA.LOAD.2D.GEN [R0]; // 启动 TMA 2D 加载引擎&#xa;// 此时没有任何 LDG 指令，SM 核心完全解放" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="490" y="290" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2.Shared -&amp;gt; Register&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2.Shared -&amp;gt; Register&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="15" y="380" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-13" value="Ampere 必须将数据搬进寄存器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-13" value="Ampere 必须将数据搬进寄存器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="15" y="410" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-14" value="ldmatrix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-14" value="ldmatrix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-15" value="将Shared中的数据以特定布局加载到寄存器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-15" value="将Shared中的数据以特定布局加载到寄存器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="460" width="250" height="30" as="geometry" />
         </mxCell>
         <UserObject label="ldmatrix.sync.aligned.m8n8.x4.shared.b16 {r0, r1, r2, r3}, [%smem_ptr];&#xa;// 将 SMEM 数据加载到 r0-r3 寄存器" link="ldmatrix.sync.aligned.m8n8.x4.shared.b16 {r0, r1, r2, r3}, [%smem_ptr];&#xa;// 将 SMEM 数据加载到 r0-r3 寄存器" id="ZlBqLV6LS6-vf0MejHJ3-16">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="25" y="510" width="410" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-17" value="LDS.128.U.M88 R0, [R4]; // Load Shared 128-bit" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-17" value="LDS.128.U.M88 R0, [R4]; // Load Shared 128-bit" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="25" y="580" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-18" value="Hopper不需要此步&lt;div&gt;WGMMA指令允许Tensor Core直接读取SharedMem&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-18" value="Hopper不需要此步&lt;div&gt;WGMMA指令允许Tensor Core直接读取SharedMem&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="405" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3. Matrix Multiply-Accumulate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3. Matrix Multiply-Accumulate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="660" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-20" value="FP16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-20" value="FP16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="10" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-21" value="m16n8k16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-21" value="m16n8k16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="690" width="80" height="30" as="geometry" />
         </mxCell>
         <UserObject label="mma.sync.aligned.m16n8k16.row.col.f16.f16.f16.f16 &#xa;    {c0, c1}, {a0, a1}, {b0}, {c0, c1};" link="mma.sync.aligned.m16n8k16.row.col.f16.f16.f16.f16 &#xa;    {c0, c1}, {a0, a1}, {b0}, {c0, c1};" id="ZlBqLV6LS6-vf0MejHJ3-22">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="30" y="740" width="310" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-23" value="输入为寄存器中的A，B，&lt;div&gt;输出到寄存器中的C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-23" value="输入为寄存器中的A，B，&lt;div&gt;输出到寄存器中的C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="685" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-24" value="HMMA.16816.F16 R0, R4, R8, R0; &#xa;// R0(C) = R4(A) * R8(B) + R0(C)&#xa;// 输入操作数必须在寄存器 R4, R8 中" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-24" value="HMMA.16816.F16 R0, R4, R8, R0; &#xa;// R0(C) = R4(A) * R8(B) + R0(C)&#xa;// 输入操作数必须在寄存器 R4, R8 中" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="30" y="800" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-25" value="Warpgroup级异步计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-25" value="Warpgroup级异步计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="690" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-26" value="输入为SMem中的描述符，&lt;div&gt;输出到寄存器中的C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-26" value="输入为SMem中的描述符，&lt;div&gt;输出到寄存器中的C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="610" y="685" width="170" height="40" as="geometry" />
         </mxCell>
         <UserObject label="wgmma.mma_async.sync.aligned.m64n128k16.f16.f16.f16 &#xa;    {c0...cN}, %desc_a, %desc_b, p;&#xa;// 输入是 %desc_a (指向 SMEM), 输出是寄存器 {c...}" link="wgmma.mma_async.sync.aligned.m64n128k16.f16.f16.f16 &#xa;    {c0...cN}, %desc_a, %desc_b, p;&#xa;// 输入是 %desc_a (指向 SMEM), 输出是寄存器 {c...}" id="ZlBqLV6LS6-vf0MejHJ3-27">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="455" y="730" width="350" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-28" value="HGMMA.M64.N128.K16 R0, R100, R101;&#xa;// R0 是累加器 C 的寄存器&#xa;// R100, R101 是 Shared Memory 的描述符索引，不是数据本身！" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-28" value="HGMMA.M64.N128.K16 R0, R100, R101;&#xa;// R0 是累加器 C 的寄存器&#xa;// R100, R101 是 Shared Memory 的描述符索引，不是数据本身！" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="440" y="800" width="380" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4.同步与流水线控制(Synchronization&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4.同步与流水线控制(Synchronization&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="900" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-30" value="需要显示管理异步拷贝的完成状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-30" value="需要显示管理异步拷贝的完成状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="940" width="200" height="30" as="geometry" />
         </mxCell>
         <UserObject label="cp.async.wait_group 1; // 等待上一轮拷贝完成&#xa;bar.sync 0;            // 确保 Warp 内所有线程都拿到了数据" link="cp.async.wait_group 1; // 等待上一轮拷贝完成&#xa;bar.sync 0;            // 确保 Warp 内所有线程都拿到了数据" id="ZlBqLV6LS6-vf0MejHJ3-31">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="25" y="1000" width="330" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-32" value="DEPBAR;   // Dependency Barrier (依赖屏障)&#xa;BAR.SYNC; // 常规栅栏" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-32" value="DEPBAR;   // Dependency Barrier (依赖屏障)&#xa;BAR.SYNC; // 常规栅栏" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="30" y="1090" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-33" value="使用mbarrier实现更细粒度的“到达-等待”模型，配合TMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-33" value="使用mbarrier实现更细粒度的“到达-等待”模型，配合TMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="940" width="320" height="30" as="geometry" />
         </mxCell>
         <UserObject label="mbarrier.try_wait.parity.shared.b64 [%mbar], phase;&#xa;// 检查 TMA 是否把数据搬完了&#xa;wgmma.fence.sync.aligned; &#xa;// 确保之前的 WGMMA 指令已经发射，然后再发射新的&#xa;wgmma.wait_group.sync.aligned 0;&#xa;// 等待 WGMMA 计算完成（通常只在最后输出结果时需要，循环中不需要等）" link="mbarrier.try_wait.parity.shared.b64 [%mbar], phase;&#xa;// 检查 TMA 是否把数据搬完了&#xa;wgmma.fence.sync.aligned; &#xa;// 确保之前的 WGMMA 指令已经发射，然后再发射新的&#xa;wgmma.wait_group.sync.aligned 0;&#xa;// 等待 WGMMA 计算完成（通常只在最后输出结果时需要，循环中不需要等）" id="ZlBqLV6LS6-vf0MejHJ3-34">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="460" y="970" width="450" height="110" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-35" value="MBAR.WAIT; // 等待 mbarrier 信号&#xa;YIELD;     // 暂时挂起线程，让出资源给 TMA 引擎运行" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZlBqLV6LS6-vf0MejHJ3-35" value="MBAR.WAIT; // 等待 mbarrier 信号&#xa;YIELD;     // 暂时挂起线程，让出资源给 TMA 引擎运行" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="470" y="1090" width="320" height="50" as="geometry" />
         </mxCell>
       </root>
