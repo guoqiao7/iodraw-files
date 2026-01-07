@@ -303,8 +303,8 @@
             <mxPoint x="830" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vmm9-UAYVgnUvNvWqqz2-82" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="1548" width="50" height="30" as="geometry" />
+        <mxCell id="vmm9-UAYVgnUvNvWqqz2-82" value="根据已有布局以及依赖图倒推其他算子的buffer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="1548" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
