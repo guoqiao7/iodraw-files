@@ -16,14 +16,14 @@
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="480" as="sourcePoint" />
-            <mxPoint x="80" y="240" as="targetPoint" />
+            <mxPoint x="80" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-3" value="Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="450" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-4" value="CUDA&lt;br&gt;Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="393" width="60" height="40" as="geometry" />
+          <mxGeometry x="10" y="390" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-5" value="Tensor&lt;br&gt;Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="320" width="60" height="40" as="geometry" />
@@ -35,19 +35,19 @@
           <mxGeometry x="240" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="393" width="320" height="40" as="geometry" />
+          <mxGeometry x="80" y="390" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-10" value="Sum0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="160" y="393" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-11" value="Sum1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="320" y="393" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-12" value="idle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-13" value="idle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="240" y="393" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="390" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
