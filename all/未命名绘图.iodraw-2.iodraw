@@ -22,8 +22,8 @@
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-4" value="CUDA&lt;br&gt;Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="393" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vmm9-UAYVgnUvNvWqqz2-5" value="CUDA&lt;br&gt;Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="403" width="60" height="40" as="geometry" />
+        <mxCell id="vmm9-UAYVgnUvNvWqqz2-5" value="Tensor&lt;br&gt;Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
