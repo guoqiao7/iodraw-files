@@ -266,28 +266,28 @@
           <mxGeometry x="13" y="2020" width="316" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-72" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;收集算子&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;shadow=1;fontStyle=0;labelBackgroundColor=default;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1480" width="170" height="60" as="geometry" />
+          <mxGeometry x="870" y="1480" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vmm9-UAYVgnUvNvWqqz2-72" target="vmm9-UAYVgnUvNvWqqz2-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="1500" as="sourcePoint" />
-            <mxPoint x="1180" y="1450" as="targetPoint" />
+            <mxPoint x="1070" y="1500" as="sourcePoint" />
+            <mxPoint x="1120" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-74" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1450" width="20" height="120" as="geometry" />
+          <mxGeometry x="1070" y="1450" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-75" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;通过buffer链接算子&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;建立依赖图&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;shadow=1;fontStyle=0;labelBackgroundColor=default;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1156" y="1540" width="170" height="60" as="geometry" />
+          <mxGeometry x="1096" y="1540" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vmm9-UAYVgnUvNvWqqz2-76" target="vmm9-UAYVgnUvNvWqqz2-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-76" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;存入算子列表&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;shadow=1;fontStyle=0;labelBackgroundColor=default;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1156" y="1420" width="170" height="60" as="geometry" />
+          <mxGeometry x="1096" y="1420" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-77" value="遍历算子列表&lt;div&gt;选定anchor算子&lt;/div&gt;&lt;div&gt;推断其布局&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;shadow=1;fontStyle=0;labelBackgroundColor=default;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="1420" width="150" height="60" as="geometry" />
+          <mxGeometry x="1310" y="1420" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
