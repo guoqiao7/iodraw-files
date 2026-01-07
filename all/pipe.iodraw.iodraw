@@ -297,9 +297,9 @@
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-79" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;layoutMap&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;shadow=1;fontStyle=0;labelBackgroundColor=default;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1420" width="80" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="vmm9-UAYVgnUvNvWqqz2-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vmm9-UAYVgnUvNvWqqz2-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vmm9-UAYVgnUvNvWqqz2-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="1740" as="sourcePoint" />
+            <mxPoint x="1160" y="1730" as="sourcePoint" />
             <mxPoint x="830" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
