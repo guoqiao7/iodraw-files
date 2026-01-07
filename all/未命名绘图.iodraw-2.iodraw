@@ -28,10 +28,10 @@
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-5" value="Tensor&lt;br&gt;Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="300" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vmm9-UAYVgnUvNvWqqz2-6" value="MatMul0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="vmm9-UAYVgnUvNvWqqz2-6" value="MatMul0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vmm9-UAYVgnUvNvWqqz2-8" value="MatMul0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="vmm9-UAYVgnUvNvWqqz2-8" value="MatMul0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
