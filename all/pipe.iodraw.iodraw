@@ -315,8 +315,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vmm9-UAYVgnUvNvWqqz2-84" value="冲突时查看两个布局的包容性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="1618" width="180" height="30" as="geometry" />
+        <mxCell id="vmm9-UAYVgnUvNvWqqz2-84" value="冲突时根据两个布局的包容性选定最终布局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="1618" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
