@@ -265,6 +265,9 @@
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-71" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ForNode&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;PartitionLoop:单层循环-&amp;gt;多层嵌套，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;最内层线程绑定&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;VectorizeLoop:循环存在访存（smem、lmem）并且没有规约，则生成向量化访存指令&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;添加谓语：predicate_map，添加至循环最外层，避免越界访问&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;shadow=1;fontStyle=0;labelBackgroundColor=default;glass=0;" vertex="1" parent="1">
           <mxGeometry x="13" y="2020" width="316" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="vmm9-UAYVgnUvNvWqqz2-72" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;收集算子&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;collector.Collect(f)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;shadow=1;fontStyle=0;labelBackgroundColor=default;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1500" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
