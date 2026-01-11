@@ -294,6 +294,9 @@
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-77" value="遍历算子列表&lt;div&gt;选定 anchor 算子&lt;/div&gt;&lt;div&gt;推断其布局&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;shadow=1;fontStyle=0;labelBackgroundColor=default;glass=0;" parent="1" vertex="1">
           <mxGeometry x="1208" y="1420" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5dl7LBxlUs2xKOMDB0E5-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vmm9-UAYVgnUvNvWqqz2-79" target="5dl7LBxlUs2xKOMDB0E5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-79" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;layoutMap&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;shadow=1;fontStyle=0;labelBackgroundColor=default;glass=0;" parent="1" vertex="1">
           <mxGeometry x="1408" y="1420" width="80" height="250" as="geometry" />
         </mxCell>
@@ -317,6 +320,9 @@
         </mxCell>
         <mxCell id="vmm9-UAYVgnUvNvWqqz2-84" value="冲突时根据两个布局的包容性选定最终布局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1118" y="1618" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5dl7LBxlUs2xKOMDB0E5-1" value="" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;shadow=1;fontStyle=0;labelBackgroundColor=default;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1521" y="1515" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
