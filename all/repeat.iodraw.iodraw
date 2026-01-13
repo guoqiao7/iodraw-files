@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="50" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-3" value="repeatsQueue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="30" y="108" width="110" height="30" as="geometry" />
@@ -26,7 +26,7 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-6" value="repeatsLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="258" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-8" value="alloc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="gdSov8CGnomulm9pPgs5-8" value="A&lt;span style=&quot;background-color: initial;&quot;&gt;lloc&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="108" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
