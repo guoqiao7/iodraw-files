@@ -23,8 +23,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="258" width="50" height="30" as="geometry" />
+        <mxCell id="gdSov8CGnomulm9pPgs5-6" value="repeatsLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="258" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdSov8CGnomulm9pPgs5-7" value="repeatsLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="268" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
