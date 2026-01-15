@@ -685,6 +685,9 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-246" value="DeQue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="2690" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gdSov8CGnomulm9pPgs5-248" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2770" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
