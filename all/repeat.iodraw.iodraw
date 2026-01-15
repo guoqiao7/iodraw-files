@@ -230,6 +230,9 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-78" value="读取某一维度的信息后Free释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="824" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gdSov8CGnomulm9pPgs5-80" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="948" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
