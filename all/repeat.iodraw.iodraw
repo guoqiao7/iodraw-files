@@ -623,9 +623,6 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-217" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="2510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-218" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="2471" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-219" value="填充数据完成，加入队列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="595" y="2448" width="160" height="30" as="geometry" />
         </mxCell>
@@ -638,9 +635,6 @@
               <mxPoint x="809.28" y="2481" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-221" value="EnQue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="745" y="2471" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
