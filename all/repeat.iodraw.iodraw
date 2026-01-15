@@ -182,6 +182,18 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-58" value="xOutQueue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="625" y="118" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gdSov8CGnomulm9pPgs5-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="202" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gdSov8CGnomulm9pPgs5-60" value="xOutLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="242" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdSov8CGnomulm9pPgs5-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="202" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gdSov8CGnomulm9pPgs5-62" value="xOutQueue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
