@@ -430,7 +430,7 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-149" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="1862" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-150" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gdSov8CGnomulm9pPgs5-150" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="545" y="1862" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-151" value="xOutQueue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
@@ -462,9 +462,6 @@
               <mxPoint x="543" y="1813" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-160" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="615" y="1788" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-161" value="里面有数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="665" y="1763" width="80" height="30" as="geometry" />
