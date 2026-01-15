@@ -587,63 +587,60 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-203" value="外循环结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="2390" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-205" value="CopyOneCpToRepeatOut（）向量寄存器写完数据之后" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="2440" width="320" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-206" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="2570" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="2540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-207" value="xInQueue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="2478" width="80" height="30" as="geometry" />
+          <mxGeometry x="275" y="2448" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-208" value="xInLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="2526" width="70" height="30" as="geometry" />
+          <mxGeometry x="380" y="2496" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-209" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="2570" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="2540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-210" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="2570" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="2540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-211" value="xOutQueue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2460" width="100" height="30" as="geometry" />
+          <mxGeometry x="565" y="2430" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-212" value="xOutLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="645" y="2540" width="80" height="30" as="geometry" />
+          <mxGeometry x="650" y="2510" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-213" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="655" y="2570" width="120" height="40" as="geometry" />
+          <mxGeometry x="660" y="2540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-214" value="repeatsQueue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2478" width="110" height="30" as="geometry" />
+          <mxGeometry x="65" y="2448" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-215" value="repeatsLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="2580" width="90" height="30" as="geometry" />
+          <mxGeometry x="75" y="2550" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-216" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2486" width="120" height="40" as="geometry" />
+          <mxGeometry x="355" y="2456" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-217" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="2540" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="2510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-218" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="2501" width="120" height="40" as="geometry" />
+          <mxGeometry x="630" y="2471" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-219" value="填充数据完成，加入队列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="2478" width="160" height="30" as="geometry" />
+          <mxGeometry x="595" y="2448" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-220" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.685;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="735.71" y="2499.55" as="sourcePoint" />
-            <mxPoint x="764.28" y="2561" as="targetPoint" />
+            <mxPoint x="740.71" y="2469.55" as="sourcePoint" />
+            <mxPoint x="769.28" y="2531" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="764.28" y="2481" />
-              <mxPoint x="804.28" y="2511" />
+              <mxPoint x="769.28" y="2451" />
+              <mxPoint x="809.28" y="2481" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-221" value="EnQue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="2501" width="60" height="30" as="geometry" />
+          <mxGeometry x="745" y="2471" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
