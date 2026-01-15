@@ -646,10 +646,7 @@
           <mxGeometry x="260" y="2760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-229" value="xInQueue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="318" y="2651" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-230" value="xInLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="2730" width="70" height="30" as="geometry" />
+          <mxGeometry x="335" y="2681" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-231" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="2760" width="120" height="40" as="geometry" />
@@ -670,26 +667,13 @@
           <mxGeometry x="65" y="2668" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-237" value="repeatsLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="2770" width="90" height="30" as="geometry" />
+          <mxGeometry x="75" y="2800" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-239" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="2730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-240" value="存在循环最后的数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="2728" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-241" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.685;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390.00000000000006" y="2668.55" as="sourcePoint" />
-            <mxPoint x="418.57" y="2730" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="418.57" y="2650" />
-              <mxPoint x="458.57" y="2680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-242" value="Free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="2668" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
