@@ -326,7 +326,7 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-116" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="gdSov8CGnomulm9pPgs5-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="1321" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-120" value="填充数据完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -346,7 +346,7 @@
           <mxGeometry x="740" y="1321" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-125" value="CopyMatchOutToY（）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5" y="1498" width="150" height="30" as="geometry" />
+          <mxGeometry x="30" y="1498" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
