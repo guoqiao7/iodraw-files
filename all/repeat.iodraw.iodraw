@@ -113,7 +113,7 @@
           <mxGeometry x="615" y="617" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-37" value="EnQue&lt;div&gt;(表示选择该块buffer&lt;/div&gt;&lt;div&gt;实际无数据)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="685" y="510" width="130" height="60" as="geometry" />
+          <mxGeometry x="705" y="517" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="577" width="120" height="40" as="geometry" />
@@ -213,7 +213,7 @@
           <mxGeometry x="70" y="632" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="472" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="485" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
