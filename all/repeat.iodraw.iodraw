@@ -249,7 +249,7 @@
           <mxGeometry x="535" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-88" value="xOutQueue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="585" y="1060" width="100" height="30" as="geometry" />
+          <mxGeometry x="560" y="1050" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-90" value="xOutLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="675" y="1131" width="80" height="30" as="geometry" />
@@ -285,7 +285,7 @@
           <mxGeometry x="655" y="1091" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-102" value="里面无数据，仅表示空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1060" width="160" height="30" as="geometry" />
+          <mxGeometry x="670" y="1060" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
