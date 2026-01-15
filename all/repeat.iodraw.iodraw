@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-16" value="xInLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="240" width="70" height="30" as="geometry" />
+          <mxGeometry x="490" y="240" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-17" value="A&lt;span style=&quot;background-color: initial;&quot;&gt;lloc&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="120" width="50" height="30" as="geometry" />
