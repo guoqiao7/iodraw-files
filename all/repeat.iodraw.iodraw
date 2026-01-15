@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-46" value="repeatsLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="904" width="90" height="30" as="geometry" />
+          <mxGeometry x="340" y="770" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-47" value="Free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="784" width="50" height="30" as="geometry" />
