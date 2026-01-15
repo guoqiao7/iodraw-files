@@ -88,9 +88,6 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-26" value="xInLocal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-27" value="A&lt;span style=&quot;background-color: initial;&quot;&gt;lloc（不申请空间，只选择）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="488" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-28" value="EnQue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="518" width="60" height="30" as="geometry" />
         </mxCell>
