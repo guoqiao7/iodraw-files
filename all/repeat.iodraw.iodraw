@@ -345,7 +345,7 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-122" value="EnQue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="1321" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-125" value="CopyMatchOutToY（）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="gdSov8CGnomulm9pPgs5-125" value="CopyMatchOutToY（）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="1498" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
