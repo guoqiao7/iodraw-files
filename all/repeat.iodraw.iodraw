@@ -119,7 +119,10 @@
           <mxGeometry x="515" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdSov8CGnomulm9pPgs5-41" value="A&lt;span style=&quot;background-color: initial;&quot;&gt;lloc&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="130" width="50" height="30" as="geometry" />
+          <mxGeometry x="580" y="488" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdSov8CGnomulm9pPgs5-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="698" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
