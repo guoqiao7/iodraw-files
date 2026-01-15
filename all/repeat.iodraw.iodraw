@@ -460,8 +460,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-163" value="Free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="755" y="1730" width="50" height="30" as="geometry" />
+        <mxCell id="gdSov8CGnomulm9pPgs5-163" value="Alloc&lt;div&gt;EnQue&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="1765" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
