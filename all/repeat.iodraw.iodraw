@@ -463,8 +463,8 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-163" value="Alloc&lt;div&gt;EnQue&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="1767" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdSov8CGnomulm9pPgs5-165" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="1798" width="50" height="30" as="geometry" />
+        <mxCell id="gdSov8CGnomulm9pPgs5-165" value="无数据，仅表示选择空间后加入队列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1798" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
