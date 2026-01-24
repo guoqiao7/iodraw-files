@@ -765,7 +765,7 @@
         <mxCell id="5dl7LBxlUs2xKOMDB0E5-187" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;reduce_C&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1105" y="315" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;布局推断依靠模板参数或启发式构建，IR层难以显式表达并复用&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;布局推断依靠模板或启发式构建，发生冲突时开销较大，&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;并且IR层难以显式表达并复用&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="439.17" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;异构单元的细粒度重叠不足，&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;N5hy2pMFbz4UEEAlVj22&quot;&gt;或依靠手动设置来优化，&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;N5hy2pMFbz4UEEAlVj22&quot;&gt;无法自动搜索最优策略&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
