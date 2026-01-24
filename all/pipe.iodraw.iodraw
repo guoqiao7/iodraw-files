@@ -813,6 +813,9 @@
             <mxPoint x="960" y="389.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-21" value="Thread：(i % 8) * 4 + j % 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="390" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
