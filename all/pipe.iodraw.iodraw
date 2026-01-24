@@ -798,6 +798,9 @@
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-14" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;布局推断&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="892" y="439.17" width="93" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-16" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;布局推断&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="902" y="449.17" width="93" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
