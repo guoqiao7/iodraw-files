@@ -780,7 +780,7 @@
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-8" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;异构单元的细粒度重叠不足，&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;N5hy2pMFbz4UEEAlVj22&quot;&gt;或依靠手动设置来优化，&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;N5hy2pMFbz4UEEAlVj22&quot;&gt;无法自动搜索最优策略&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1105" y="520" width="161" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-9" value="问题描述" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-9" value="研究目标" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1126" y="380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
