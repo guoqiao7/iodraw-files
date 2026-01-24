@@ -786,7 +786,7 @@
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1429" y="498.88" as="sourcePoint" />
-            <mxPoint x="1490" y="498.88" as="targetPoint" />
+            <mxPoint x="1482" y="499" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
