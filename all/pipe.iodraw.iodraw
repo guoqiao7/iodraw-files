@@ -805,7 +805,13 @@
           <mxGeometry x="1473.5" y="780" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-19" value="Thread：(i % 8) * 4 + j % 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="855" y="338" width="170" height="30" as="geometry" />
+          <mxGeometry x="875" y="345" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="340" as="sourcePoint" />
+            <mxPoint x="1100" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
