@@ -778,10 +778,10 @@
           <mxGeometry x="1106" y="439.17" width="214" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-8" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;通过构建并搜索 WS + SWP 组合策略的调优空间，找到最佳调度方案，实现异构单元间的深度重叠&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="520" width="185" height="60" as="geometry" />
+          <mxGeometry x="1105" y="520" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-9" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;研究目标&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1126" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="1160" y="380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
