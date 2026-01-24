@@ -792,8 +792,8 @@
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1330" y="449.16999999999996" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-12" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;通过构建并搜索 WS + SWP 组合策略的调优空间，找到最佳调度方案，实现异构单元间的深度重叠&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="530" width="200" height="60" as="geometry" />
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1417" y="479.17" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
