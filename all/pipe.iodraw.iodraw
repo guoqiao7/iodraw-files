@@ -772,7 +772,10 @@
           <mxGeometry x="919" y="520" width="161" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-5" value="问题描述" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="935" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="939.5" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
