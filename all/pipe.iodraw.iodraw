@@ -766,10 +766,10 @@
           <mxGeometry x="1105" y="315" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;布局推断依靠模板参数或启发式构建，IR层难以显式表达并复用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="439.17" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="439.17" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;异构单元的细粒度重叠不足，或依靠手动设置来优化，无法自动搜索最优策略&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="919" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="919" y="520" width="201" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
