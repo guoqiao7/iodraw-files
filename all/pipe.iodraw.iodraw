@@ -772,40 +772,37 @@
           <mxGeometry x="1105" y="315" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;问题1：&lt;br&gt;布局推断依靠模板或启发式构建，发生冲突时开销较大，&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;并且IR层难以显式表达并复用&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="967" y="538.3400000000001" width="160" height="60" as="geometry" />
+          <mxGeometry x="850" y="529.1700000000002" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;问题2：&lt;br&gt;异构单元的细粒度重叠不足，&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;N5hy2pMFbz4UEEAlVj22&quot;&gt;或依靠手动设置来优化，&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;N5hy2pMFbz4UEEAlVj22&quot;&gt;无法自动搜索最优策略&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="966" y="619.1700000000001" width="161" height="60" as="geometry" />
+          <mxGeometry x="849" y="610.0000000000001" width="161" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;问题描述&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="987" y="479.17" width="120" height="40" as="geometry" />
+          <mxGeometry x="870" y="470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-7" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;研究内容1：布局推断&lt;br&gt;构建贯穿全局算子的布局推断模式，&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;并将其提升为IR的一等语义，&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;可被pass直接分析与重写&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1167" y="538.3400000000001" width="200" height="60" as="geometry" />
+          <mxGeometry x="1050" y="529.1700000000002" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-8" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;研究内容2：流水线调度&lt;br&gt;通过构建并搜索 WS + SWP 组合策略的调优空间，找到最佳调度方案，实现异构单元间的深度重叠&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1167" y="619.1700000000001" width="200" height="60" as="geometry" />
+          <mxGeometry x="1050" y="610.0000000000001" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-9" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;研究内容&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1207" y="479.17" width="120" height="40" as="geometry" />
+          <mxGeometry x="1090" y="470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1397" y="608.05" as="sourcePoint" />
-            <mxPoint x="1450" y="608.1700000000001" as="targetPoint" />
+            <mxPoint x="1280" y="598.88" as="sourcePoint" />
+            <mxPoint x="1333" y="599.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1377" y="548.3399999999999" width="20" height="120" as="geometry" />
+          <mxGeometry x="1260" y="539.17" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-13" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;利用 IR 上的静态信息，将布局与流水线调度纳入结构化调优空间，根据资源约束找出同时满足布局与流水线调度要求的高性能实现&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1457" y="568.3400000000001" width="143" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-14" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;布局推断&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="548.3400000000001" width="93" height="40" as="geometry" />
+          <mxGeometry x="1340" y="559.1700000000002" width="143" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-17" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;自动调优&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1483.5" y="519.1700000000001" width="93" height="40" as="geometry" />
+          <mxGeometry x="1366.5" y="510.00000000000006" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cK3jv-27GfKkL_Gu2Vbw-23" target="cK3jv-27GfKkL_Gu2Vbw-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -968,14 +965,14 @@
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cK3jv-27GfKkL_Gu2Vbw-3" target="cK3jv-27GfKkL_Gu2Vbw-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1200" y="630" as="sourcePoint" />
-            <mxPoint x="1250" y="580" as="targetPoint" />
+            <mxPoint x="1083" y="620.83" as="sourcePoint" />
+            <mxPoint x="1133" y="570.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cK3jv-27GfKkL_Gu2Vbw-4" target="cK3jv-27GfKkL_Gu2Vbw-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1200" y="630" as="sourcePoint" />
-            <mxPoint x="1250" y="580" as="targetPoint" />
+            <mxPoint x="1083" y="620.83" as="sourcePoint" />
+            <mxPoint x="1133" y="570.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
