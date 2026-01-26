@@ -867,7 +867,7 @@
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-48" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;最优选择&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1090.5" y="870" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-49" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;静态剪枝&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-49" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;配置缓存&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1210.5" y="870" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-50" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;运行时&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
