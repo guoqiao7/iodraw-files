@@ -838,7 +838,7 @@
           <mxGeometry x="880" y="760" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-32" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;候选生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="880" y="830" width="80" height="40" as="geometry" />
+          <mxGeometry x="1013" y="760" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-33" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;静态剪枝&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="880" y="900" width="80" height="40" as="geometry" />
@@ -856,33 +856,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1130" y="840" as="sourcePoint" />
             <mxPoint x="1180" y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="770" width="100" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-39" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;IR 参数化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="780" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-40" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;候选生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="850" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-41" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;静态剪枝&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="920" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-42" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;编译期&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="970" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cK3jv-27GfKkL_Gu2Vbw-39" target="cK3jv-27GfKkL_Gu2Vbw-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1380" y="840" as="sourcePoint" />
-            <mxPoint x="1500" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cK3jv-27GfKkL_Gu2Vbw-40" target="cK3jv-27GfKkL_Gu2Vbw-41">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1450" y="860" as="sourcePoint" />
-            <mxPoint x="1500" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
