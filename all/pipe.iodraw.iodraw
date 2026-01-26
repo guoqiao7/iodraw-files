@@ -799,10 +799,7 @@
           <mxGeometry x="1260" y="539.17" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-13" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;利用 IR 上的静态信息，将布局与流水线调度纳入结构化调优空间，根据资源约束找出同时满足布局与流水线调度要求的高性能实现&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="550.0000000000002" width="143" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-17" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;自动调优&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1366.5" y="510.00000000000006" width="93" height="40" as="geometry" />
+          <mxGeometry x="1280" y="530" width="143" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cK3jv-27GfKkL_Gu2Vbw-23" target="cK3jv-27GfKkL_Gu2Vbw-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
