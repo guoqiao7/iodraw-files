@@ -780,7 +780,7 @@
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;问题描述&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="987" y="479.17" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-7" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;构建贯穿全局算子的布局推断模式，&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;并将其提升为IR的一等语义，&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;可被pass直接分析与重写&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-7" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;研究内容1：布局推断&lt;br&gt;构建贯穿全局算子的布局推断模式，&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;并将其提升为IR的一等语义，&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;可被pass直接分析与重写&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1167" y="538.3400000000001" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-8" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;通过构建并搜索 WS + SWP 组合策略的调优空间，找到最佳调度方案，实现异构单元间的深度重叠&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -975,7 +975,7 @@
             <mxPoint x="1250" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cK3jv-27GfKkL_Gu2Vbw-4" target="cK3jv-27GfKkL_Gu2Vbw-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1200" y="630" as="sourcePoint" />
             <mxPoint x="1250" y="580" as="targetPoint" />
