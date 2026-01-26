@@ -775,16 +775,16 @@
           <mxGeometry x="850" y="529.17" width="160" height="70.83" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;问题2：&lt;br&gt;异构单元的细粒度重叠不足，&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;N5hy2pMFbz4UEEAlVj22&quot;&gt;或依靠手动设置来优化，&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;N5hy2pMFbz4UEEAlVj22&quot;&gt;无法自动搜索最优策略&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="849" y="610.0000000000001" width="161" height="60" as="geometry" />
+          <mxGeometry x="849" y="610" width="161" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;问题描述&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="870" y="470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-7" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;研究内容1：布局推断&lt;br&gt;构建贯穿全局算子的布局推断模式，&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;并将其提升为IR的一等语义，&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;可被pass直接分析与重写&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="529.1700000000002" width="200" height="60" as="geometry" />
+          <mxGeometry x="1050" y="529.17" width="200" height="70.83" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-8" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;研究内容2：流水线调度&lt;br&gt;通过构建并搜索 WS + SWP 组合策略的调优空间，找到最佳调度方案，实现异构单元间的深度重叠&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="610.0000000000001" width="200" height="60" as="geometry" />
+          <mxGeometry x="1050" y="610" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-9" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;研究内容&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1090" y="470" width="120" height="40" as="geometry" />
