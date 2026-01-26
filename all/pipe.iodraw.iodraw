@@ -900,8 +900,8 @@
         <mxCell id="cK3jv-27GfKkL_Gu2Vbw-62" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;布局与映射候选&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1040" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-63" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;IR 参数化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="910.5" y="1030" width="80" height="40" as="geometry" />
+        <mxCell id="cK3jv-27GfKkL_Gu2Vbw-63" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;静态代价评估与强剪枝&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1110" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
