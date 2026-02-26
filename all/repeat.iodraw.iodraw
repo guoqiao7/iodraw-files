@@ -701,8 +701,8 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-250" value="Free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="630" y="2640" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YbXkzcTYVB3v2uPBE2U--2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="400" y="3730" width="180" height="120" as="geometry" />
+        <mxCell id="YbXkzcTYVB3v2uPBE2U--2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3639" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YbXkzcTYVB3v2uPBE2U--3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="YbXkzcTYVB3v2uPBE2U--2">
           <mxGeometry width="180" height="40" as="geometry" />
