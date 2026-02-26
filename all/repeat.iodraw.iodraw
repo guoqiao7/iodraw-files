@@ -1598,8 +1598,8 @@
         <mxCell id="YbXkzcTYVB3v2uPBE2U--222" value="baseW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1397" y="4041" width="55" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="YbXkzcTYVB3v2uPBE2U--223" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;direction=south;rotation=15;" vertex="1" parent="1">
-          <mxGeometry x="968" y="3948" width="52" height="94" as="geometry" />
+        <mxCell id="YbXkzcTYVB3v2uPBE2U--223" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;direction=north;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="3917" width="52" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
