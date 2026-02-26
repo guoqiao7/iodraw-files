@@ -701,7 +701,7 @@
         <mxCell id="gdSov8CGnomulm9pPgs5-250" value="Free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="630" y="2640" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YbXkzcTYVB3v2uPBE2U--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YbXkzcTYVB3v2uPBE2U--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="3639" width="210" height="360" as="geometry" />
         </mxCell>
       </root>
